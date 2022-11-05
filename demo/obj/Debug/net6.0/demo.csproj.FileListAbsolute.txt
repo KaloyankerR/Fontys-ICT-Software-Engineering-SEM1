@@ -1,0 +1,15 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\bin\Debug\net6.0\demo.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\bin\Debug\net6.0\demo.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\bin\Debug\net6.0\demo.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\bin\Debug\net6.0\demo.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\refint\demo.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\demo\obj\Debug\net6.0\ref\demo.dll
