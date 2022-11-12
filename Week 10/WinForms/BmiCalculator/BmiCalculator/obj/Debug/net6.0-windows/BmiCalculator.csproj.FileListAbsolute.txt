@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\bin\Debug\net6.0-windows\BmiCalculator.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\bin\Debug\net6.0-windows\BmiCalculator.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\bin\Debug\net6.0-windows\BmiCalculator.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\bin\Debug\net6.0-windows\BmiCalculator.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\bin\Debug\net6.0-windows\BmiCalculator.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\refint\BmiCalculator.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\BmiCalculator.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\BmiCalculator\BmiCalculator\obj\Debug\net6.0-windows\ref\BmiCalculator.dll
