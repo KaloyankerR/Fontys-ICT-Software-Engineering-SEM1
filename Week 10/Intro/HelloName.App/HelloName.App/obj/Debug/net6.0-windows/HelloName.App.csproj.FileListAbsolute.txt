@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\bin\Debug\net6.0-windows\HelloName.App.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\bin\Debug\net6.0-windows\HelloName.App.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\bin\Debug\net6.0-windows\HelloName.App.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\bin\Debug\net6.0-windows\HelloName.App.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\bin\Debug\net6.0-windows\HelloName.App.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.Main.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\refint\HelloName.App.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\HelloName.App.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\Intro\HelloName.App\HelloName.App\obj\Debug\net6.0-windows\ref\HelloName.App.dll
