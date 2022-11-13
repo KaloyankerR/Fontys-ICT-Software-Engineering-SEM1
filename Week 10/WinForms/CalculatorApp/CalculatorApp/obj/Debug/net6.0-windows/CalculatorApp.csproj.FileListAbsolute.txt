@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\refint\CalculatorApp.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 10\WinForms\CalculatorApp\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
