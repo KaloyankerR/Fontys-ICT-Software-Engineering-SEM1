@@ -88,7 +88,6 @@
             this.lblType.Size = new System.Drawing.Size(76, 25);
             this.lblType.TabIndex = 4;
             this.lblType.Text = "Pet type";
-            
             // 
             // btnEnter
             // 
