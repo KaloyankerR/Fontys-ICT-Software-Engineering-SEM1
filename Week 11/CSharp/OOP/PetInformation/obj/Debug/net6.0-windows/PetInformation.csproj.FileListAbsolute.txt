@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\bin\Debug\net6.0-windows\PetInformation.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\bin\Debug\net6.0-windows\PetInformation.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\bin\Debug\net6.0-windows\PetInformation.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\bin\Debug\net6.0-windows\PetInformation.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\bin\Debug\net6.0-windows\PetInformation.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\refint\PetInformation.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\PetInformation.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\PetInformation\obj\Debug\net6.0-windows\ref\PetInformation.dll

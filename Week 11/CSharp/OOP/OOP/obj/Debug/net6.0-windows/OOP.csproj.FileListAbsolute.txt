@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\bin\Debug\net6.0-windows\OOP.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\bin\Debug\net6.0-windows\OOP.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\bin\Debug\net6.0-windows\OOP.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\bin\Debug\net6.0-windows\OOP.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\bin\Debug\net6.0-windows\OOP.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\refint\OOP.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\OOP.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\OOP\obj\Debug\net6.0-windows\ref\OOP.dll

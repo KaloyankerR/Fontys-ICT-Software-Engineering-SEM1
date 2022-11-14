@@ -1,0 +1,15 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\bin\Debug\net6.0\BankAccountConsoleApp.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\bin\Debug\net6.0\BankAccountConsoleApp.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\bin\Debug\net6.0\BankAccountConsoleApp.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\bin\Debug\net6.0\BankAccountConsoleApp.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\bin\Debug\net6.0\BankAccountConsoleApp.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\refint\BankAccountConsoleApp.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\BankAccountConsoleApp.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\BankAccountConsoleApp\BankAccountConsoleApp\obj\Debug\net6.0\ref\BankAccountConsoleApp.dll
