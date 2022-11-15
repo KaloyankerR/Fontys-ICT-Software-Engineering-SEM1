@@ -37,7 +37,4 @@ WHERE StudentEmail IS NOT NULL;
 ALTER TABLE Students
 ADD Phone BIT;
 
-
 SELECT * FROM Students;
-
-

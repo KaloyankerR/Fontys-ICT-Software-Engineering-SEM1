@@ -48,7 +48,7 @@
             this.dataGridView1.AllowUserToOrderColumns = true;
             this.dataGridView1.AllowUserToResizeRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(321, 34);
+            this.dataGridView1.Location = new System.Drawing.Point(338, 12);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersVisible = false;
@@ -59,14 +59,14 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(103, 67);
+            this.txtName.Location = new System.Drawing.Point(120, 12);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(150, 31);
             this.txtName.TabIndex = 1;
             // 
             // txtPet
             // 
-            this.txtPet.Location = new System.Drawing.Point(103, 104);
+            this.txtPet.Location = new System.Drawing.Point(120, 49);
             this.txtPet.Name = "txtPet";
             this.txtPet.Size = new System.Drawing.Size(150, 31);
             this.txtPet.TabIndex = 2;
@@ -74,7 +74,7 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(12, 67);
+            this.lblName.Location = new System.Drawing.Point(29, 12);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(85, 25);
             this.lblName.TabIndex = 3;
@@ -83,7 +83,7 @@
             // lblType
             // 
             this.lblType.AutoSize = true;
-            this.lblType.Location = new System.Drawing.Point(12, 101);
+            this.lblType.Location = new System.Drawing.Point(29, 46);
             this.lblType.Name = "lblType";
             this.lblType.Size = new System.Drawing.Size(76, 25);
             this.lblType.TabIndex = 4;
@@ -91,7 +91,7 @@
             // 
             // btnEnter
             // 
-            this.btnEnter.Location = new System.Drawing.Point(260, 312);
+            this.btnEnter.Location = new System.Drawing.Point(220, 326);
             this.btnEnter.Name = "btnEnter";
             this.btnEnter.Size = new System.Drawing.Size(112, 34);
             this.btnEnter.TabIndex = 5;
@@ -101,7 +101,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(496, 312);
+            this.btnDelete.Location = new System.Drawing.Point(456, 326);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(112, 34);
             this.btnDelete.TabIndex = 6;
@@ -112,7 +112,7 @@
             // lblDescription
             // 
             this.lblDescription.AutoSize = true;
-            this.lblDescription.Location = new System.Drawing.Point(12, 138);
+            this.lblDescription.Location = new System.Drawing.Point(12, 83);
             this.lblDescription.Name = "lblDescription";
             this.lblDescription.Size = new System.Drawing.Size(102, 25);
             this.lblDescription.TabIndex = 8;
@@ -120,15 +120,15 @@
             // 
             // txtDescription
             // 
-            this.txtDescription.Location = new System.Drawing.Point(120, 141);
+            this.txtDescription.Location = new System.Drawing.Point(120, 86);
             this.txtDescription.Name = "txtDescription";
-            this.txtDescription.Size = new System.Drawing.Size(173, 121);
+            this.txtDescription.Size = new System.Drawing.Size(150, 121);
             this.txtDescription.TabIndex = 9;
             this.txtDescription.Text = "";
             // 
             // btnEdit
             // 
-            this.btnEdit.Location = new System.Drawing.Point(378, 312);
+            this.btnEdit.Location = new System.Drawing.Point(338, 326);
             this.btnEdit.Name = "btnEdit";
             this.btnEdit.Size = new System.Drawing.Size(112, 34);
             this.btnEdit.TabIndex = 10;
@@ -138,7 +138,7 @@
             // 
             // btnCancel
             // 
-            this.btnCancel.Location = new System.Drawing.Point(378, 352);
+            this.btnCancel.Location = new System.Drawing.Point(338, 366);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(112, 34);
             this.btnCancel.TabIndex = 11;
