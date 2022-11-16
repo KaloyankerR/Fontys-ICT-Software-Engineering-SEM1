@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Car application.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Car application.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Car application.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Car application.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Car application.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\Car application.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\Car application.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\Car application.dll

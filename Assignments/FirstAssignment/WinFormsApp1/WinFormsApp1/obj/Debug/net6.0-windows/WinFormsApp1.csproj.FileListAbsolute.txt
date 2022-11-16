@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

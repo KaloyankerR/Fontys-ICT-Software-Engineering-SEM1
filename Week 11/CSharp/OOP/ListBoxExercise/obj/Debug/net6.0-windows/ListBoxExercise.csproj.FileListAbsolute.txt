@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\bin\Debug\net6.0-windows\ListBoxExercise.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\bin\Debug\net6.0-windows\ListBoxExercise.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\bin\Debug\net6.0-windows\ListBoxExercise.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\bin\Debug\net6.0-windows\ListBoxExercise.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\bin\Debug\net6.0-windows\ListBoxExercise.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\refint\ListBoxExercise.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ListBoxExercise.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 11\CSharp\OOP\ListBoxExercise\obj\Debug\net6.0-windows\ref\ListBoxExercise.dll
