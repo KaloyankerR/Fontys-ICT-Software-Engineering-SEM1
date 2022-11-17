@@ -35,13 +35,14 @@
             this.lblAmount = new System.Windows.Forms.Label();
             this.lblName = new System.Windows.Forms.Label();
             this.btnShowExpenses = new System.Windows.Forms.Button();
-            this.numuodwnSameExpenses = new System.Windows.Forms.NumericUpDown();
+            this.numupdwnSameExpenses = new System.Windows.Forms.NumericUpDown();
             this.lblAmount2 = new System.Windows.Forms.Label();
             this.btnShowSameExpenses = new System.Windows.Forms.Button();
             this.lsbxExpenses = new System.Windows.Forms.ListBox();
+            this.btnClearExpenses = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numupdwnAmount)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numuodwnSameExpenses)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numupdwnSameExpenses)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -109,31 +110,32 @@
             // 
             // btnShowExpenses
             // 
-            this.btnShowExpenses.Location = new System.Drawing.Point(29, 271);
+            this.btnShowExpenses.Location = new System.Drawing.Point(377, 329);
             this.btnShowExpenses.Name = "btnShowExpenses";
-            this.btnShowExpenses.Size = new System.Drawing.Size(273, 34);
+            this.btnShowExpenses.Size = new System.Drawing.Size(265, 34);
             this.btnShowExpenses.TabIndex = 5;
             this.btnShowExpenses.Text = "Show all expenses";
             this.btnShowExpenses.UseVisualStyleBackColor = true;
+            this.btnShowExpenses.Click += new System.EventHandler(this.btnShowExpenses_Click);
             // 
-            // numuodwnSameExpenses
+            // numupdwnSameExpenses
             // 
-            this.numuodwnSameExpenses.DecimalPlaces = 2;
-            this.numuodwnSameExpenses.Increment = new decimal(new int[] {
+            this.numupdwnSameExpenses.DecimalPlaces = 2;
+            this.numupdwnSameExpenses.Increment = new decimal(new int[] {
             1,
             0,
             0,
             131072});
-            this.numuodwnSameExpenses.Location = new System.Drawing.Point(178, 338);
-            this.numuodwnSameExpenses.Name = "numuodwnSameExpenses";
-            this.numuodwnSameExpenses.Size = new System.Drawing.Size(147, 31);
-            this.numuodwnSameExpenses.TabIndex = 7;
-            this.numuodwnSameExpenses.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numupdwnSameExpenses.Location = new System.Drawing.Point(178, 292);
+            this.numupdwnSameExpenses.Name = "numupdwnSameExpenses";
+            this.numupdwnSameExpenses.Size = new System.Drawing.Size(147, 31);
+            this.numupdwnSameExpenses.TabIndex = 7;
+            this.numupdwnSameExpenses.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // lblAmount2
             // 
             this.lblAmount2.AutoSize = true;
-            this.lblAmount2.Location = new System.Drawing.Point(29, 344);
+            this.lblAmount2.Location = new System.Drawing.Point(12, 298);
             this.lblAmount2.Name = "lblAmount2";
             this.lblAmount2.Size = new System.Drawing.Size(77, 25);
             this.lblAmount2.TabIndex = 6;
@@ -142,41 +144,52 @@
             // btnShowSameExpenses
             // 
             this.btnShowSameExpenses.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnShowSameExpenses.Location = new System.Drawing.Point(12, 375);
+            this.btnShowSameExpenses.Location = new System.Drawing.Point(12, 329);
             this.btnShowSameExpenses.Name = "btnShowSameExpenses";
             this.btnShowSameExpenses.Size = new System.Drawing.Size(313, 34);
             this.btnShowSameExpenses.TabIndex = 8;
             this.btnShowSameExpenses.Text = "Show expenses with the same amount";
             this.btnShowSameExpenses.UseVisualStyleBackColor = true;
+            this.btnShowSameExpenses.Click += new System.EventHandler(this.btnShowSameExpenses_Click);
             // 
             // lsbxExpenses
             // 
             this.lsbxExpenses.FormattingEnabled = true;
             this.lsbxExpenses.ItemHeight = 25;
-            this.lsbxExpenses.Location = new System.Drawing.Point(476, 99);
+            this.lsbxExpenses.Location = new System.Drawing.Point(377, 52);
             this.lsbxExpenses.Name = "lsbxExpenses";
             this.lsbxExpenses.Size = new System.Drawing.Size(265, 254);
             this.lsbxExpenses.TabIndex = 9;
-            this.lsbxExpenses.SelectedIndexChanged += new System.EventHandler(this.lsbxExpenses_SelectedIndexChanged);
+            // 
+            // btnClearExpenses
+            // 
+            this.btnClearExpenses.Location = new System.Drawing.Point(377, 382);
+            this.btnClearExpenses.Name = "btnClearExpenses";
+            this.btnClearExpenses.Size = new System.Drawing.Size(265, 34);
+            this.btnClearExpenses.TabIndex = 10;
+            this.btnClearExpenses.Text = "Clear all expenses";
+            this.btnClearExpenses.UseVisualStyleBackColor = true;
+            this.btnClearExpenses.Click += new System.EventHandler(this.btnClearExpenses_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(710, 443);
+            this.Controls.Add(this.btnClearExpenses);
             this.Controls.Add(this.lsbxExpenses);
             this.Controls.Add(this.btnShowSameExpenses);
-            this.Controls.Add(this.numuodwnSameExpenses);
+            this.Controls.Add(this.numupdwnSameExpenses);
             this.Controls.Add(this.lblAmount2);
             this.Controls.Add(this.btnShowExpenses);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Finances";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numupdwnAmount)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numuodwnSameExpenses)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numupdwnSameExpenses)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -191,9 +204,10 @@
         private Label lblName;
         private Button btnAddExpenses;
         private Button btnShowExpenses;
-        private NumericUpDown numuodwnSameExpenses;
+        private NumericUpDown numupdwnSameExpenses;
         private Label lblAmount2;
         private Button btnShowSameExpenses;
         private ListBox lsbxExpenses;
+        private Button btnClearExpenses;
     }
 }

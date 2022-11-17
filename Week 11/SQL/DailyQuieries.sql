@@ -41,4 +41,24 @@ and (l.state_province is not null)
 order by l.state_province
 offset 0 rows;
 
---
+-- Fifth one
+CREATE OR ALTER VIEW v_s4740262_asgmt_114_00 AS <your query>;  
+
+select * from jobs
+
+select j.job_title, j.max_salary
+from employees e
+join jobs j on e.job_id = j.job_id
+join departments d on e.department_id = d.department_id
+where (e.department_id = '80')
+and (d.department_name like '%Sales%')
+and (j.job_title like '%Sales Manager%')
+
+
+CREATE OR ALTER VIEW v_s4740262_asgmt_114_00 AS  
+select top 1 j.job_title, j.max_salary
+from jobs j
+join employees e on j.job_id = e.job_id
+where j.job_title like '%Sales Manager%'
+
+-- Sixth one
