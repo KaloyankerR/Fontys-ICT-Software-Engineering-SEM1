@@ -32,6 +32,9 @@
             this.btnAccelerate = new System.Windows.Forms.Button();
             this.btnBreak = new System.Windows.Forms.Button();
             this.lblResult = new System.Windows.Forms.Label();
+            this.lblSecondCar = new System.Windows.Forms.Label();
+            this.btnBreak2 = new System.Windows.Forms.Button();
+            this.btnAccelerate2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblSigmaMale
@@ -68,22 +71,57 @@
             // 
             this.lblResult.AutoSize = true;
             this.lblResult.Font = new System.Drawing.Font("Georgia", 14F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
-            this.lblResult.Location = new System.Drawing.Point(33, 96);
+            this.lblResult.Location = new System.Drawing.Point(41, 97);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(0, 32);
+            this.lblResult.Size = new System.Drawing.Size(123, 32);
             this.lblResult.TabIndex = 3;
+            this.lblResult.Text = "First car";
+            // 
+            // lblSecondCar
+            // 
+            this.lblSecondCar.AutoSize = true;
+            this.lblSecondCar.Font = new System.Drawing.Font("Georgia", 14F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
+            this.lblSecondCar.Location = new System.Drawing.Point(41, 257);
+            this.lblSecondCar.Name = "lblSecondCar";
+            this.lblSecondCar.Size = new System.Drawing.Size(153, 32);
+            this.lblSecondCar.TabIndex = 6;
+            this.lblSecondCar.Text = "Second car";
+            // 
+            // btnBreak2
+            // 
+            this.btnBreak2.Location = new System.Drawing.Point(374, 345);
+            this.btnBreak2.Name = "btnBreak2";
+            this.btnBreak2.Size = new System.Drawing.Size(112, 34);
+            this.btnBreak2.TabIndex = 5;
+            this.btnBreak2.Text = "Break";
+            this.btnBreak2.UseVisualStyleBackColor = true;
+            this.btnBreak2.Click += new System.EventHandler(this.btnBreak2_Click);
+            // 
+            // btnAccelerate2
+            // 
+            this.btnAccelerate2.Location = new System.Drawing.Point(219, 345);
+            this.btnAccelerate2.Name = "btnAccelerate2";
+            this.btnAccelerate2.Size = new System.Drawing.Size(112, 34);
+            this.btnAccelerate2.TabIndex = 4;
+            this.btnAccelerate2.Text = "Accelerate";
+            this.btnAccelerate2.UseVisualStyleBackColor = true;
+            this.btnAccelerate2.Click += new System.EventHandler(this.btnAccelerate2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(846, 496);
+            this.Controls.Add(this.lblSecondCar);
+            this.Controls.Add(this.btnBreak2);
+            this.Controls.Add(this.btnAccelerate2);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.btnBreak);
             this.Controls.Add(this.btnAccelerate);
             this.Controls.Add(this.lblSigmaMale);
             this.Name = "Form1";
             this.Text = "Car application";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -95,5 +133,8 @@
         private Button btnAccelerate;
         private Button btnBreak;
         private Label lblResult;
+        private Label lblSecondCar;
+        private Button btnBreak2;
+        private Button btnAccelerate2;
     }
 }

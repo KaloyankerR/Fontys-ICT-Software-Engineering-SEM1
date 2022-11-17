@@ -29,4 +29,16 @@ and (e.department_id = 20 or e.department_id = 50)
 and (e.last_name in ('Weiss', 'Fripp', 'Kaufling', 'Vollman'))
 -- where (e.salary >= 5000 and e.salary <= 12000)
 
+-- Fourth one
+CREATE OR ALTER VIEW v_s4740262_asgmt_113_00 AS 
+select d.department_name, e.last_name + ' ' + e.first_name as "Full name", l.state_province
+from employees e
+join departments d on (e.manager_id= d.manager_id)
+and (e.department_id = d.department_id)
+join locations l on d.location_id = l.location_id
+where (d.manager_id is not null)
+and (l.state_province is not null)
+order by l.state_province
+offset 0 rows;
 
+--

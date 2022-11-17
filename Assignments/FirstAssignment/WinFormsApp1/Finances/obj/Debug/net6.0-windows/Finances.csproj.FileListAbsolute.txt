@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\bin\Debug\net6.0-windows\Finances.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\bin\Debug\net6.0-windows\Finances.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\bin\Debug\net6.0-windows\Finances.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\bin\Debug\net6.0-windows\Finances.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\bin\Debug\net6.0-windows\Finances.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\refint\Finances.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\Finances.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Finances\obj\Debug\net6.0-windows\ref\Finances.dll
