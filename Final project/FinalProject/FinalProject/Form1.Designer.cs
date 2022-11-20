@@ -72,12 +72,13 @@
             this.dtgrdComplaints.AllowUserToResizeColumns = false;
             this.dtgrdComplaints.AllowUserToResizeRows = false;
             this.dtgrdComplaints.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtgrdComplaints.Location = new System.Drawing.Point(11, 102);
+            this.dtgrdComplaints.Location = new System.Drawing.Point(15, 104);
             this.dtgrdComplaints.Name = "dtgrdComplaints";
             this.dtgrdComplaints.ReadOnly = true;
+            this.dtgrdComplaints.RowHeadersVisible = false;
             this.dtgrdComplaints.RowHeadersWidth = 62;
             this.dtgrdComplaints.RowTemplate.Height = 33;
-            this.dtgrdComplaints.Size = new System.Drawing.Size(954, 263);
+            this.dtgrdComplaints.Size = new System.Drawing.Size(950, 280);
             this.dtgrdComplaints.TabIndex = 3;
             this.dtgrdComplaints.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 

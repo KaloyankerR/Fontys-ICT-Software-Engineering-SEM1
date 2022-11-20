@@ -1,0 +1,15 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\bin\Debug\net6.0\WorkingWithArrays.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\refint\WorkingWithArrays.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\WorkingWithArrays.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\WorkingWithArrays\obj\Debug\net6.0\ref\WorkingWithArrays.dll
