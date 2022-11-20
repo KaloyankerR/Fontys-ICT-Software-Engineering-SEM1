@@ -1,6 +1,6 @@
 exec MyAssignments
 exec CheckAssignments
-exec SneakPeek 112, 00
+-- exec SneakPeek 112, 00
 
 -- First assignment
 CREATE OR ALTER VIEW v_s4740262_asgmt_110_00 
@@ -62,3 +62,15 @@ join employees e on j.job_id = e.job_id
 where j.job_title like '%Sales Manager%'
 
 -- Sixth one
+CREATE OR ALTER VIEW v_s4740262_asgmt_115_00 AS  
+select e.first_name + ' ' + e.last_name as 'Full name', j.job_title, d.department_id, d.department_name
+from employees e
+join departments d on e.department_id = d.department_id
+join locations l on d.location_id = l.location_id
+join jobs j on e.job_id = j.job_id
+where (e.department_id = 60) and (e.department_id = 100)
+and (l.location_id = 1800)
+order by d.department_name
+offset 0 rows;
+
+
