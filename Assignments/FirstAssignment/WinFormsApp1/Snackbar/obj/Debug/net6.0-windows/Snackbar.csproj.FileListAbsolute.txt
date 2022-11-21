@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\bin\Debug\net6.0-windows\Snackbar.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\bin\Debug\net6.0-windows\Snackbar.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\bin\Debug\net6.0-windows\Snackbar.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\bin\Debug\net6.0-windows\Snackbar.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\bin\Debug\net6.0-windows\Snackbar.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\refint\Snackbar.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\Snackbar.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Snackbar\obj\Debug\net6.0-windows\ref\Snackbar.dll
