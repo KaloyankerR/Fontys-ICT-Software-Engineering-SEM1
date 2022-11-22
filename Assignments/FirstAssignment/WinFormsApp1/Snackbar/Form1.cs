@@ -15,8 +15,6 @@ namespace Snackbar
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-
             cbxSnack.Items.Add(snackBar.GetSnackName(0));
             cbxSnack.Items.Add(snackBar.GetSnackName(1));
             cbxSnack.Items.Add(snackBar.GetSnackName(2));
@@ -52,7 +50,7 @@ namespace Snackbar
             }
 
             ClearOrder();
-            Refresh();
+            //Refresh();
         }
 
         private void ClearOrder()
@@ -79,14 +77,19 @@ namespace Snackbar
             snack.SetPrice(newPrice);
             snack.SetQuantity(newQuantity);
 
+            // cbxSnack.Select = "";
+            label1.Text = $"{snackBar.GetInfo(0)}";
+            label2.Text = $"{snackBar.GetInfo(1)}";
+            label3.Text = $"{snackBar.GetInfo(2)}";
+
             MessageBox.Show("You changed the value", "Changed successfull");
-            Refresh();
+            // Refresh();
         }
 
-        public void Refresh()
-        {
-            Form1 form = new Form1();
-            form.Refresh();
-        }
+        //public void Refresh()
+        //{
+        //    Form1 form = new Form1();
+        //    form.Refresh();
+        //}
     }
 }

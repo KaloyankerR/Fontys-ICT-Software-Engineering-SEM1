@@ -29,10 +29,10 @@
 --	on sd.SKU = oi.SKU
 --group by sd.Department
 
-select sd.SKU, sd.SKU_Description, sum(oi.ExtendedPrice) as [totalSales], sum(oi.Quantity) as [quantitySaled]
-from SKU_DATA sd
-join ORDER_ITEM oi
-	on sd.SKU = oi.SKU
-where sd.SKU_Description like 'Dive Mask%'
-group by sd.SKU, sd.SKU_Description
-
+-- Eleventh task
+--select sd.SKU, sd.SKU_Description, sum(oi.ExtendedPrice) as [totalSales], sum(oi.Quantity) as [quantitySaled]
+--from SKU_DATA sd
+--join ORDER_ITEM oi
+--	on sd.SKU = oi.SKU
+--where sd.SKU_Description like 'Dive Mask%'
+--group by sd.SKU, sd.SKU_Description

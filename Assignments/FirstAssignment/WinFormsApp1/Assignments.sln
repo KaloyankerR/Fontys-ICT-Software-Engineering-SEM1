@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finances", "Finances\Financ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithArrays", "WorkingWithArrays\WorkingWithArrays.csproj", "{11B518C6-D144-4504-82C7-25A9EFAF4B2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snackbar", "Snackbar\Snackbar.csproj", "{869EC0BD-563B-4CAE-A2CC-2425615BF53A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snackbar", "Snackbar\Snackbar.csproj", "{869EC0BD-563B-4CAE-A2CC-2425615BF53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery", "Lottery\Lottery.csproj", "{7D73196E-4B78-468A-BC7C-52B9DBE97B3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{869EC0BD-563B-4CAE-A2CC-2425615BF53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{869EC0BD-563B-4CAE-A2CC-2425615BF53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{869EC0BD-563B-4CAE-A2CC-2425615BF53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D73196E-4B78-468A-BC7C-52B9DBE97B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D73196E-4B78-468A-BC7C-52B9DBE97B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D73196E-4B78-468A-BC7C-52B9DBE97B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D73196E-4B78-468A-BC7C-52B9DBE97B3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
