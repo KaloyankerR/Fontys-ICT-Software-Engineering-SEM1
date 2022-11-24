@@ -16,3 +16,4 @@ D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Final project\Final
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Final project\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.genruntimeconfig.cache
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Final project\FinalProject\FinalProject\obj\Debug\net6.0-windows\ref\FinalProject.dll
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Final project\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.ComplaintForm.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Final project\FinalProject\FinalProject\obj\Debug\net6.0-windows\FinalProject.Rules.resources
