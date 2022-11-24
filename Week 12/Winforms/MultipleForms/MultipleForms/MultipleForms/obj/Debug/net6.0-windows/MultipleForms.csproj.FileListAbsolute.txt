@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\bin\Debug\net6.0-windows\MultipleForms.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\bin\Debug\net6.0-windows\MultipleForms.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\bin\Debug\net6.0-windows\MultipleForms.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\bin\Debug\net6.0-windows\MultipleForms.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\bin\Debug\net6.0-windows\MultipleForms.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\refint\MultipleForms.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\MultipleForms.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 12\Winforms\MultipleForms\MultipleForms\MultipleForms\obj\Debug\net6.0-windows\ref\MultipleForms.dll

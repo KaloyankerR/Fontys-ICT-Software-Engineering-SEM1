@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\bin\Debug\net6.0-windows\Lottery.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\bin\Debug\net6.0-windows\Lottery.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\bin\Debug\net6.0-windows\Lottery.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\bin\Debug\net6.0-windows\Lottery.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\bin\Debug\net6.0-windows\Lottery.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\refint\Lottery.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\Lottery.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Assignments\FirstAssignment\WinFormsApp1\Lottery\obj\Debug\net6.0-windows\ref\Lottery.dll
