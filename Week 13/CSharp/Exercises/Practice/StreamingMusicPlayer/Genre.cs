@@ -16,6 +16,5 @@ namespace StreamingMusicPlayer
 
     //internal class Genre
     //{
-        
     //}
 }

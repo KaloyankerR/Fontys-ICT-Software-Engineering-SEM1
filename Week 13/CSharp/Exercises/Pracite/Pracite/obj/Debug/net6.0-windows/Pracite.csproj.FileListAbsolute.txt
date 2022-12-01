@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\bin\Debug\net6.0-windows\Pracite.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\bin\Debug\net6.0-windows\Pracite.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\bin\Debug\net6.0-windows\Pracite.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\bin\Debug\net6.0-windows\Pracite.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\bin\Debug\net6.0-windows\Pracite.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\refint\Pracite.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\Pracite.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\Pracite\obj\Debug\net6.0-windows\ref\Pracite.dll

@@ -1,0 +1,15 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\bin\Debug\net6.0\PracticeConsole.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\bin\Debug\net6.0\PracticeConsole.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\bin\Debug\net6.0\PracticeConsole.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\bin\Debug\net6.0\PracticeConsole.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\bin\Debug\net6.0\PracticeConsole.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\refint\PracticeConsole.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\PracticeConsole.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Exercises\Pracite\PracticeConsole\obj\Debug\net6.0\ref\PracticeConsole.dll
