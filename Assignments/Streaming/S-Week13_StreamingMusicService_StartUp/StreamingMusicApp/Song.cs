@@ -12,13 +12,15 @@ namespace StreamingMusicApp
         private string artist;
         private string title;        
         private int durationInSeconds;
+        private string genre;
 
-        public Song(int id, string artist, string title, int durationInSeconds)
+        public Song(int id, string artist, string title, int durationInSeconds, string genre)
         {
             this.id = id;
             this.artist = artist;
             this.title = title;
             this.durationInSeconds = durationInSeconds;
+            this.genre = genre;
         }
 
         public int GetId()
