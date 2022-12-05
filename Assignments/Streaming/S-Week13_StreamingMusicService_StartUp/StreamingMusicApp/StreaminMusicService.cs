@@ -13,6 +13,7 @@ namespace StreamingMusicApp
         private string name;
         private List<Song> songs;
         private List<User> users;
+        private Dictionary<string, Song[]> usersDict;
 
         public StreamingMusicService(string name)
         {
@@ -20,6 +21,7 @@ namespace StreamingMusicApp
             this.name = name;
             this.songs = new List<Song>();
             this.users = new List<User>();
+            this.usersDict = new Dictionary<string, Song[]>();
         }
 
         // -------------------------- Adding
@@ -34,7 +36,6 @@ namespace StreamingMusicApp
             this.songs.Add(new Song(this.songIdSeeder, artist, title, durationInSeconds, genre));
             this.songIdSeeder++;
         }
-
 
         // --------------------------- Getters
         public Song GetSong(int id)
@@ -67,7 +68,6 @@ namespace StreamingMusicApp
         //{
         //    return this.users.ToArray();
         //}
-
         //public User[] UsersArray => this.users.ToArray();
 
         public string GetUsers()
@@ -92,7 +92,6 @@ namespace StreamingMusicApp
         {
             return $"Streaming Music service: {this.name} ({this.songs.Count} songs)";
         }
-
 
         // ---------------------------- Others
         public bool ValidateUserIsUnique(string name)

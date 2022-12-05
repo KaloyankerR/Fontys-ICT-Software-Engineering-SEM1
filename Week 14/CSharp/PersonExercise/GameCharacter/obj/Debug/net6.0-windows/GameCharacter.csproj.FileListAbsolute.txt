@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\bin\Debug\net6.0-windows\GameCharacter.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\bin\Debug\net6.0-windows\GameCharacter.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\bin\Debug\net6.0-windows\GameCharacter.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\bin\Debug\net6.0-windows\GameCharacter.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\bin\Debug\net6.0-windows\GameCharacter.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\refint\GameCharacter.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\GameCharacter.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\GameCharacter\obj\Debug\net6.0-windows\ref\GameCharacter.dll

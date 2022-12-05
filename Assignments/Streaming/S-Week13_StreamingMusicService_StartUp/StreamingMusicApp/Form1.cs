@@ -110,13 +110,15 @@ namespace StreamingMusicApp
             txtSongArtist.Text = "";
             txtSongTitle.Text = "";
             txtSongDuration.Text = "";
+            combobxSongsGenres.Text = "";
+
             FillUsersSongs();
             FillListboxSongs();
         }
 
         private void btnFavouritesAdd_Click(object sender, EventArgs e)
         {
-
+            User userObj = user
         }
 
         // ---------------------------------- Main page

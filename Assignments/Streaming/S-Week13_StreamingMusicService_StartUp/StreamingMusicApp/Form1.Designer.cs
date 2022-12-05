@@ -55,12 +55,12 @@ namespace StreamingMusicApp
             this.txtSongArtist = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.tabpgFavourites = new System.Windows.Forms.TabPage();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.btnFavouritesAdd = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
             this.combobxFavouritesSong = new System.Windows.Forms.ComboBox();
             this.label9 = new System.Windows.Forms.Label();
             this.combobxFavouritesUser = new System.Windows.Forms.ComboBox();
-            this.btnFavouritesAdd = new System.Windows.Forms.Button();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.tabControl1.SuspendLayout();
             this.tabpgMain.SuspendLayout();
             this.tabpgUsers.SuspendLayout();
@@ -329,6 +329,25 @@ namespace StreamingMusicApp
             this.tabpgFavourites.Text = "Favourites";
             this.tabpgFavourites.UseVisualStyleBackColor = true;
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 25;
+            this.listBox1.Location = new System.Drawing.Point(383, 55);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(323, 229);
+            this.listBox1.TabIndex = 7;
+            // 
+            // btnFavouritesAdd
+            // 
+            this.btnFavouritesAdd.Location = new System.Drawing.Point(58, 244);
+            this.btnFavouritesAdd.Name = "btnFavouritesAdd";
+            this.btnFavouritesAdd.Size = new System.Drawing.Size(182, 34);
+            this.btnFavouritesAdd.TabIndex = 6;
+            this.btnFavouritesAdd.Text = "Add to Favourites";
+            this.btnFavouritesAdd.UseVisualStyleBackColor = true;
+            this.btnFavouritesAdd.Click += new System.EventHandler(this.btnFavouritesAdd_Click);
+            // 
             // label10
             // 
             this.label10.AutoSize = true;
@@ -341,9 +360,9 @@ namespace StreamingMusicApp
             // combobxFavouritesSong
             // 
             this.combobxFavouritesSong.FormattingEnabled = true;
-            this.combobxFavouritesSong.Location = new System.Drawing.Point(58, 167);
+            this.combobxFavouritesSong.Location = new System.Drawing.Point(39, 167);
             this.combobxFavouritesSong.Name = "combobxFavouritesSong";
-            this.combobxFavouritesSong.Size = new System.Drawing.Size(182, 33);
+            this.combobxFavouritesSong.Size = new System.Drawing.Size(219, 33);
             this.combobxFavouritesSong.TabIndex = 4;
             // 
             // label9
@@ -362,25 +381,6 @@ namespace StreamingMusicApp
             this.combobxFavouritesUser.Name = "combobxFavouritesUser";
             this.combobxFavouritesUser.Size = new System.Drawing.Size(182, 33);
             this.combobxFavouritesUser.TabIndex = 2;
-            // 
-            // btnFavouritesAdd
-            // 
-            this.btnFavouritesAdd.Location = new System.Drawing.Point(58, 244);
-            this.btnFavouritesAdd.Name = "btnFavouritesAdd";
-            this.btnFavouritesAdd.Size = new System.Drawing.Size(182, 34);
-            this.btnFavouritesAdd.TabIndex = 6;
-            this.btnFavouritesAdd.Text = "Add to Favourites";
-            this.btnFavouritesAdd.UseVisualStyleBackColor = true;
-            this.btnFavouritesAdd.Click += new System.EventHandler(this.btnFavouritesAdd_Click);
-            // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 25;
-            this.listBox1.Location = new System.Drawing.Point(383, 55);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(323, 229);
-            this.listBox1.TabIndex = 7;
             // 
             // Form1
             // 

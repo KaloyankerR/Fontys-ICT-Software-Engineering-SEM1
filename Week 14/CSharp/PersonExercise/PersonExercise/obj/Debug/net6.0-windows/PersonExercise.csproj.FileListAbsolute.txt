@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\bin\Debug\net6.0-windows\PersonExercise.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\bin\Debug\net6.0-windows\PersonExercise.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\bin\Debug\net6.0-windows\PersonExercise.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\bin\Debug\net6.0-windows\PersonExercise.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\bin\Debug\net6.0-windows\PersonExercise.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\refint\PersonExercise.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\PersonExercise.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\PersonExercise\obj\Debug\net6.0-windows\ref\PersonExercise.dll
