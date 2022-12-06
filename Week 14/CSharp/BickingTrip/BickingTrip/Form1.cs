@@ -12,113 +12,68 @@ namespace BickingTrip
 {
     public partial class Form1 : Form
     {
-        private List<string> desitinations;
-        private List<double> distances;
-        private List<double> ratings;
+        Trips trips;
 
         public Form1()
         {
             InitializeComponent();
-
-            this.desitinations = new List<string>();
-            this.distances = new List<double>();
-            this.ratings = new List<double>();
-            // Add some dummy trips
-            this.desitinations.Add("Amsterdam");
-            this.distances.Add(121);
-            this.ratings.Add(4);
-            this.desitinations.Add("Rome");
-            this.distances.Add(1532);
-            this.ratings.Add(4);
-            this.desitinations.Add("Paris");
-            this.distances.Add(447);
-            this.ratings.Add(3.5);
-            this.desitinations.Add("Amsterdam");
-            this.distances.Add(121);
-            this.ratings.Add(4.5);
-            this.desitinations.Add("Paris");
-            this.distances.Add(447);
-            this.ratings.Add(5);
-            this.desitinations.Add("Amsterdam");
-            this.distances.Add(121);
-            this.ratings.Add(2);            
+            trips = new Trips();  
+            
             btnShowAll_Click(this, EventArgs.Empty);
+        }
+
+        public void ShowAllTrips()
+        {
+            lbxMyTrips.Items.Clear();
+
+            foreach (Trip trip in trips.GetTrips())
+            {
+                lbxMyTrips.Items.Add(trip.GetInfo());
+            }
+        }
+
+        public void DeleteTrip(int ind)
+        {
+            trips.DeleteTrip(ind);
+            ShowAllTrips();
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            string destination = tbxTo.Text;
-            double distance = Convert.ToDouble(nudDistance.Value); 
-            double rating = Convert.ToDouble(nudRating.Value);
-
-
-            if (!String.IsNullOrEmpty(destination) && distance > 0)
-            {
-                this.desitinations.Add(destination);
-                this.distances.Add(distance);
-                this.ratings.Add(rating);
-
-                lbxMyTrips.Items.Add(destination);
-                tbxTo.Clear();
-                nudDistance.Value = 0m;
-                nudRating.Value = 0m;
-            }
-            else
-            {
-                MessageBox.Show("Please supply a valid destination and/or distance");
-            }
+            Trip trip = new Trip(tbxTo.Text, Convert.ToDouble(nudDistance.Text), nudRating.Text);
+            trips.AddTrip(trip);
+            
+            tbxTo.Text = "";
+            nudDistance.Text = "";
+            nudRating.Text = "";
+            ShowAllTrips();
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            if (lbxMyTrips.SelectedIndex > -1)
-            {
-                int index = this.desitinations.IndexOf(lbxMyTrips.SelectedItem.ToString());
-                if (index > -1)
-                {
-                    this.desitinations.RemoveAt(index);
-                    this.distances.RemoveAt(index);
-                    this.ratings.RemoveAt(index);
-
-                    lbxMyTrips.SelectedIndex = -1;
-                }
-            }
+            int ind = lbxMyTrips.SelectedIndex;
+            DeleteTrip(ind);
         }
 
         private void btnInfo_Click(object sender, EventArgs e)
         {
-            if (lbxMyTrips.SelectedIndex > -1)
-            {
-                int index = this.desitinations.IndexOf(lbxMyTrips.SelectedItem.ToString());
-                if (index > -1)
-                {
-                    MessageBox.Show($"{this.desitinations[index]}: {this.distances[index]}KM | rating {this.ratings[index]}/4)");
-                }
-            }
+            int ind = lbxMyTrips.SelectedIndex;
+            MessageBox.Show(trips.GetTripInfo(ind),"Trip information");
         }
 
         private void btnShowAll_Click(object sender, EventArgs e)
         {
-            lbxMyTrips.Items.Clear();
-            foreach (string to in this.desitinations)
-            {
-                lbxMyTrips.Items.Add(to);
-            }
+            ShowAllTrips();
         }
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
 
-            lbxMyTrips.Items.Clear();
+        }
 
-            string query = tbxSearch.Text;
-            foreach (string to in this.desitinations)
-            {
-                if (to.Contains(query))
-                {
-                    lbxMyTrips.Items.Add(to);
-                }
-            }
+        private void btnDeleteAll_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BickingTrip;
 
 namespace BickingTrip
 {
@@ -35,6 +36,11 @@ namespace BickingTrip
         {
             get { return rating; }
             set { rating = value; }
+        }
+
+        public string GetInfo()
+        {
+            return $"{Destination} - {Distance} - {Rating}/4";
         }
     }
 }
