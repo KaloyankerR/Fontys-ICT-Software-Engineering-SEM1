@@ -48,11 +48,18 @@ namespace BickingTrip
             this.gbxActions = new System.Windows.Forms.GroupBox();
             this.btnInfo = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tbpgTrips = new System.Windows.Forms.TabPage();
+            this.tbpgAdd = new System.Windows.Forms.TabPage();
+            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudRating)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudDistance)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.gbxActions.SuspendLayout();
+            this.tabControl1.SuspendLayout();
+            this.tbpgTrips.SuspendLayout();
+            this.tbpgAdd.SuspendLayout();
             this.SuspendLayout();
             // 
             // lbxMyTrips
@@ -67,6 +74,7 @@ namespace BickingTrip
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.nudRating);
             this.groupBox1.Controls.Add(this.label4);
@@ -75,7 +83,7 @@ namespace BickingTrip
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.tbxTo);
             this.groupBox1.Controls.Add(this.btnAdd);
-            this.groupBox1.Location = new System.Drawing.Point(18, 16);
+            this.groupBox1.Location = new System.Drawing.Point(306, 114);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
@@ -111,7 +119,7 @@ namespace BickingTrip
             0,
             0});
             this.nudRating.Name = "nudRating";
-            this.nudRating.Size = new System.Drawing.Size(212, 31);
+            this.nudRating.Size = new System.Drawing.Size(165, 31);
             this.nudRating.TabIndex = 47;
             // 
             // label4
@@ -188,7 +196,7 @@ namespace BickingTrip
             this.groupBox2.Controls.Add(this.tbxSearch);
             this.groupBox2.Controls.Add(this.btnSearch);
             this.groupBox2.Controls.Add(this.lbxMyTrips);
-            this.groupBox2.Location = new System.Drawing.Point(417, 16);
+            this.groupBox2.Location = new System.Drawing.Point(14, 8);
             this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
@@ -199,7 +207,7 @@ namespace BickingTrip
             // 
             // btnDeleteAll
             // 
-            this.btnDeleteAll.Location = new System.Drawing.Point(7, 316);
+            this.btnDeleteAll.Location = new System.Drawing.Point(17, 316);
             this.btnDeleteAll.Margin = new System.Windows.Forms.Padding(5);
             this.btnDeleteAll.Name = "btnDeleteAll";
             this.btnDeleteAll.Size = new System.Drawing.Size(462, 34);
@@ -253,7 +261,7 @@ namespace BickingTrip
             // 
             this.gbxActions.Controls.Add(this.btnInfo);
             this.gbxActions.Controls.Add(this.btnDelete);
-            this.gbxActions.Location = new System.Drawing.Point(18, 279);
+            this.gbxActions.Location = new System.Drawing.Point(564, 8);
             this.gbxActions.Margin = new System.Windows.Forms.Padding(2);
             this.gbxActions.Name = "gbxActions";
             this.gbxActions.Padding = new System.Windows.Forms.Padding(2);
@@ -284,15 +292,57 @@ namespace BickingTrip
             this.btnDelete.UseVisualStyleBackColor = true;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tbpgTrips);
+            this.tabControl1.Controls.Add(this.tbpgAdd);
+            this.tabControl1.Location = new System.Drawing.Point(12, 12);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(1003, 480);
+            this.tabControl1.TabIndex = 44;
+            // 
+            // tbpgTrips
+            // 
+            this.tbpgTrips.Controls.Add(this.groupBox2);
+            this.tbpgTrips.Controls.Add(this.gbxActions);
+            this.tbpgTrips.Location = new System.Drawing.Point(4, 34);
+            this.tbpgTrips.Name = "tbpgTrips";
+            this.tbpgTrips.Padding = new System.Windows.Forms.Padding(3);
+            this.tbpgTrips.Size = new System.Drawing.Size(995, 442);
+            this.tbpgTrips.TabIndex = 0;
+            this.tbpgTrips.Text = "Trips";
+            this.tbpgTrips.UseVisualStyleBackColor = true;
+            // 
+            // tbpgAdd
+            // 
+            this.tbpgAdd.Controls.Add(this.groupBox1);
+            this.tbpgAdd.Location = new System.Drawing.Point(4, 34);
+            this.tbpgAdd.Name = "tbpgAdd";
+            this.tbpgAdd.Padding = new System.Windows.Forms.Padding(3);
+            this.tbpgAdd.Size = new System.Drawing.Size(995, 442);
+            this.tbpgAdd.TabIndex = 1;
+            this.tbpgAdd.Text = "Add";
+            this.tbpgAdd.UseVisualStyleBackColor = true;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Tai Le", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label6.Location = new System.Drawing.Point(319, 134);
+            this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(31, 25);
+            this.label6.TabIndex = 49;
+            this.label6.Text = "/5";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(938, 438);
-            this.Controls.Add(this.gbxActions);
-            this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.groupBox1);
+            this.ClientSize = new System.Drawing.Size(1027, 504);
+            this.Controls.Add(this.tabControl1);
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "The bike app";
@@ -303,6 +353,9 @@ namespace BickingTrip
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.gbxActions.ResumeLayout(false);
+            this.tabControl1.ResumeLayout(false);
+            this.tbpgTrips.ResumeLayout(false);
+            this.tbpgAdd.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -327,6 +380,10 @@ namespace BickingTrip
         private System.Windows.Forms.Button btnInfo;
         private System.Windows.Forms.Button btnShowAll;
         private System.Windows.Forms.Button btnDeleteAll;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tbpgTrips;
+        private System.Windows.Forms.TabPage tbpgAdd;
+        private System.Windows.Forms.Label label6;
     }
 }
 

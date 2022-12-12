@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Newtonsoft.Json/6.0.6": {
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.6.17820"
+          }
+        }
+      },
+      "YoutubeExtractor/0.10.11": {
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.6"
+        },
+        "runtime": {
+          "lib/net35/YoutubeExtractor.dll": {
+            "assemblyVersion": "0.10.11.0",
+            "fileVersion": "0.10.11.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/6.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w26uZNyCG5VeoKiEOJ4+9/o8koSofLKwHl7WLreIcp0U6r57L7WiRXmjp8MTKFw6dYNZ9AE0lw69WYbIhUsU9Q==",
+      "path": "newtonsoft.json/6.0.6",
+      "hashPath": "newtonsoft.json.6.0.6.nupkg.sha512"
+    },
+    "YoutubeExtractor/0.10.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l670U1sF8DsSTpuPHTbJ6ZDNUySAvnbcvYGtne5PiNR/r1xXfxhptlgbih9WzWfJPc6pdjuCmpKl5NlFE0tMXw==",
+      "path": "youtubeextractor/0.10.11",
+      "hashPath": "youtubeextractor.0.10.11.nupkg.sha512"
+    }
+  }
+}

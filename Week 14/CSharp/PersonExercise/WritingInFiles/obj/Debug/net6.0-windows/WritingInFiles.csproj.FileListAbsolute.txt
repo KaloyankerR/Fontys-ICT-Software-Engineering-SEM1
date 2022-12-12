@@ -1,0 +1,17 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\bin\Debug\net6.0-windows\WritingInFiles.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\bin\Debug\net6.0-windows\WritingInFiles.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\bin\Debug\net6.0-windows\WritingInFiles.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\bin\Debug\net6.0-windows\WritingInFiles.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\bin\Debug\net6.0-windows\WritingInFiles.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.Form1.resources
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.csproj.GenerateResource.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\refint\WritingInFiles.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\WritingInFiles.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\PersonExercise\WritingInFiles\obj\Debug\net6.0-windows\ref\WritingInFiles.dll

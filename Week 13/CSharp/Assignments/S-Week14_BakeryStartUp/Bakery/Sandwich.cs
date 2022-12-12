@@ -14,11 +14,29 @@ namespace Bakery
         private BreadType bread;
         private Ingredient[] ingredients;
 
-        public Sandwich(string name, double basePrice, BreadType bread)
+        //public Sandwich(string name, double basePrice, BreadType bread)
+        //{
+        //    this.name = name;
+        //    this.basePrice = basePrice;
+        //    this.bread = bread;
+        //}
+
+        public string Name 
+        { 
+            get { return name; }
+            set { name = value; }
+        }
+
+        public double BasePrice
         {
-            this.name = name;
-            this.basePrice = basePrice;
-            this.bread = bread;
+            get { return basePrice; }
+            set { basePrice = value; }
+        }
+
+        public BreadType Bread
+        {
+            get { return bread; }
+            set { bread = value; }
         }
 
         public string GetName()

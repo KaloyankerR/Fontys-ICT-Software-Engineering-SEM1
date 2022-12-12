@@ -1,0 +1,30 @@
+C:\Users\timoh\source\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.exe
+C:\Users\timoh\source\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.deps.json
+C:\Users\timoh\source\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.runtimeconfig.json
+C:\Users\timoh\source\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.dll
+C:\Users\timoh\source\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.pdb
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.csproj.AssemblyReference.cache
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.AssemblyInfoInputs.cache
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.AssemblyInfo.cs
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.csproj.CoreCompileInputs.cache
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.dll
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\refint\AlmostWeekend.Console.dll
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.pdb
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.genruntimeconfig.cache
+C:\Users\timoh\source\AlmostWeekend.Console\obj\Debug\net6.0\ref\AlmostWeekend.Console.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\bin\Debug\net6.0\AlmostWeekend.Console.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\refint\AlmostWeekend.Console.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\AlmostWeekend.Console.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 14\CSharp\AlmostWeekend.Console\obj\Debug\net6.0\ref\AlmostWeekend.Console.dll

@@ -34,60 +34,16 @@
 --)
 
 -- 5
---select distinct e.EmployeeNumber, e.FirstName, e.LastName
---from EMPLOYEE e
---join ASSIGNMENT a on a.EmployeeNumber = e.EmployeeNumber
---where a.ProjectID in (
---	select p.ProjectID
---	from PROJECT p
---	group by p.ProjectID
---	having a.HoursWorked > avg(p.MaxHours)
---	and 
---)
-
 --select e.EmployeeNumber, e.FirstName, e.LastName
 --from EMPLOYEE e
---join ASSIGNMENT a on e.EmployeeNumber = a.EmployeeNumber
---where a.ProjectID in (
---	select p.ProjectID
---	from PROJECT p
---	group by p.ProjectID
---	having avg(p.MaxHours) < a.HoursWorked
+--where e.EmployeeNumber in (
+--	select a.EmployeeNumber
+--	from ASSIGNMENT a
+--	where a.HoursWorked > (
+--		select avg(HoursWorked)
+--		from ASSIGNMENT
+--	)
 --)
-
---select distinct e.EmployeeNumber, e.FirstName, e.LastName 
---from PROJECT p
---join ASSIGNMENT a on p.ProjectID = a.ProjectID
---join EMPLOYEE e on a.EmployeeNumber = e.EmployeeNumber
---where a.EmployeeNumber in (
---	select e.EmployeeNumber
---	from EMPLOYEE e
---	join PROJECT p on p.ProjectID = a.ProjectID
---	group by e.EmployeeNumber
---	-- having avg(p.MaxHours) < a.HoursWorked
---)
---group by e.EmployeeNumber, e.FirstName, e.LastName, a.HoursWorked
---having avg(p.MaxHours) < a.HoursWorked
-
---select *
---from ASSIGNMENT a
---where a.ProjectID in (
---	select p.ProjectID
---	from PROJECT p
---	where avg(p.MaxHours) 
---) and
---a.EmployeeNumber in (
---	select e.EmployeeNumber
---	from EMPLOYEE e
---	group by e.EmployeeNumber
---)
-
---select *
---from EMPLOYEE
-
---select *
---from PROJECT
--- Question
 
 -- 6
 --select w.WarehouseID, w.Manager, w.WarehouseCity
@@ -115,12 +71,42 @@
 --group by i.SKU, i.WarehouseID, i.SKU_Description, i.QuantityOnHand, i.QuantityOnOrder
 --having avg(i.QuantityOnHand) < i.QuantityOnHand
 
-select *
-from INVENTORY i
-where i.SKU in (
-	select iNew.SKU
-	from INVENTORY iNew
-	group by iNew.SKU
-	having avg(iNew.QuantityOnHand) < i.QuantityOnHand
+--select *
+--from INVENTORY i
+--where i.SKU in (
+--	select iNew.SKU
+--	from INVENTORY iNew
+--	group by iNew.SKU
+--	having avg(iNew.QuantityOnHand) < i.QuantityOnHand
+--)
+--order by i.
+
+
+-- 10
+--select *
+--from Dept d
+--where d.Deptno not in (
+--select e.Deptno
+--from Emp e
+--)
+
+
+-- 11
+select distinct e.Ename, e.Job, e.Sal
+from Emp e
+where e.Empno in (
+	select Mgr
+	from Emp	
 )
-order by i.SKU
+
+select *
+from Emp
+
+-- 12
+--select e.Ename as [Name], e.Job, e.Sal as [salary]
+--from Emp e
+--inner join Emp e2
+--on e.Empno = e2.Mgr
+--group by e.Ename, e.Job, e.Sal 
+--having count(e.Empno) >= 1
+

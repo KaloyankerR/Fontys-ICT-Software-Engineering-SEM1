@@ -1,6 +1,5 @@
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.csproj.AssemblyReference.cache
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.AddForm.resources
-D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.MainForm.resources
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.csproj.GenerateResource.cache
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.GeneratedMSBuildEditorConfig.editorconfig
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assi
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.pdb
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.genruntimeconfig.cache
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\ref\Bakery.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Week 13\CSharp\Assignments\S-Week14_BakeryStartUp\Bakery\obj\Debug\net5.0-windows\Bakery.Serializable.resources
