@@ -15,7 +15,6 @@ namespace Bakery
 {
     public partial class MainForm : Form
     {
-        private int counter = 0;
         Bakery bakery;
 
         public MainForm()
@@ -34,16 +33,7 @@ namespace Bakery
 
             if (result == DialogResult.OK)
             {
-                // string name = addFrm.GetName();
-                // string bread = addFrm.GetBread();
-                // string ingredients = addFrm.GetIngredients();
-                
-                Sandwich newSandwich = new Sandwich(addFrm.GetName(), 1.50, addFrm.GetBread());
-                // AddSandwich(newSandwich.GetInfo());
-                // string res = $"{string.Join('\n', bakery.sandwiches)}";
-
-                // WriteInListBox();
-                
+                Sandwich newSandwich = new Sandwich(addFrm.GetName(), 1.50, addFrm.GetBread());   
                 SerializeObj(newSandwich);
                 DeserializeObj();
 
@@ -54,27 +44,6 @@ namespace Bakery
             {
                 MessageBox.Show("An error occured!");
             }
-
-            // this.Hide();
-            //SerializeObj();
-            //DeserializeObj();
-            //counter++;
-        }
-
-        public void AddSandwich(string sandwich)
-        {
-            bakery.AddSandwich(sandwich);
-        }
-
-        public void WriteInListBox() 
-        {
-            listBox1.Items.Clear();
-            
-            foreach(string sandwich in bakery.GetSandwiches())
-            {
-                listBox1.Items.Add(sandwich);
-            }
-            
         }
 
         private void SerializeObj(Sandwich newSandwich)
@@ -104,5 +73,30 @@ namespace Bakery
             stream.Close();
         }
 
+        public void AddSandwich(string sandwich)
+        {
+            bakery.AddSandwich(sandwich);
+        }
+
+        public void WriteInListBox()
+        {
+            listBox1.Items.Clear();
+
+            foreach (string sandwich in bakery.GetSandwiches())
+            {
+                listBox1.Items.Add(sandwich);
+            }
+        }
+
+        private void btnSell_Click(object sender, EventArgs e)
+        {
+            FileStream stream = new FileStream("example.json", FileMode.OpenOrCreate);
+            BinaryFormatter formatter = new BinaryFormatter();
+
+            formatter.Serialize(stream, "");
+
+            stream.Close();
+            DeserializeObj();
+        }
     }
 }

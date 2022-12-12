@@ -38,10 +38,10 @@ namespace Bakery
             this.btnSave = new System.Windows.Forms.Button();
             this.lbxMenu = new System.Windows.Forms.ListBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.btnRevenue = new System.Windows.Forms.Button();
             this.btnSell = new System.Windows.Forms.Button();
             this.lblSandwichInfo = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -158,6 +158,15 @@ namespace Bakery
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Cart";
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 25;
+            this.listBox1.Location = new System.Drawing.Point(5, 32);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(371, 229);
+            this.listBox1.TabIndex = 3;
+            // 
             // btnRevenue
             // 
             this.btnRevenue.Location = new System.Drawing.Point(5, 312);
@@ -177,6 +186,7 @@ namespace Bakery
             this.btnSell.TabIndex = 1;
             this.btnSell.Text = "Sell selected sandwhich";
             this.btnSell.UseVisualStyleBackColor = true;
+            this.btnSell.Click += new System.EventHandler(this.btnSell_Click);
             // 
             // lblSandwichInfo
             // 
@@ -188,15 +198,6 @@ namespace Bakery
             this.lblSandwichInfo.TabIndex = 0;
             this.lblSandwichInfo.Text = "[Sandwich Data]";
             this.lblSandwichInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 25;
-            this.listBox1.Location = new System.Drawing.Point(5, 32);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(371, 229);
-            this.listBox1.TabIndex = 3;
             // 
             // MainForm
             // 

@@ -10,12 +10,12 @@ namespace Bakery
     public class Serializer
     {
         public string name;
-        public double price;
+        public string bread;
 
-        public Serializer(string name, double price)
+        public Serializer(string name, string bread)
         {
             this.name = name;
-            this.price = price;
+            this.bread = bread;
         }
 
     }

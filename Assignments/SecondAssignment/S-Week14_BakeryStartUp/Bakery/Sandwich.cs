@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Bakery
 {
-    internal class Sandwich
+    [Serializable]
+    public class Sandwich
     {
         private string name;
         private double basePrice;
@@ -50,13 +51,13 @@ namespace Bakery
             return bread;
         }
 
-        public void AddIngredient(Ingredient i)
-        {
-            if (ingredients.Length < 5)
-            {
-                ingredients[ingredients.Length] = i;
-            }
-        }
+        //public void AddIngredient(Ingredient i)
+        //{
+        //    if (ingredients.Length < 5)
+        //    {
+        //        ingredients[ingredients.Length] = i;
+        //    }
+        //}
 
         public string GetInfo()
         {

@@ -20,6 +20,7 @@ namespace Bakery
         public AddForm()
         {
             InitializeComponent();
+            cbbBreadFilter.SelectedIndex = 1;
         }
 
         public string GetName()
