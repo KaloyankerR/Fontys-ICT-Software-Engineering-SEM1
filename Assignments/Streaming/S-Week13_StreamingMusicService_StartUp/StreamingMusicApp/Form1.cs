@@ -118,7 +118,7 @@ namespace StreamingMusicApp
 
         private void btnFavouritesAdd_Click(object sender, EventArgs e)
         {
-            User userObj = user
+            // User userObj = users;
         }
 
         // ---------------------------------- Main page
