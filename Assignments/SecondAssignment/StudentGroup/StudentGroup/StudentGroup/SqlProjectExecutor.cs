@@ -115,7 +115,7 @@ namespace StudentGroup
 
             while (dataReader.Read())
             {
-                output.Add($"{dataReader.GetValue(0)} - {dataReader.GetValue(1)}\n");
+                output.Add($"{dataReader.GetValue(1)}\n");
             }
 
             dataReader.Close();
@@ -190,17 +190,17 @@ namespace StudentGroup
             conn.Close();
         }
 
-
         // ----------------- Other
         public void HardReset()
         {
             // Dropping
             DropMembers();
             DropProjectGroup();
-            
+
             // Creating
-            CreateMembers();
             CreateProjectGroup();
+            CreateMembers();
         }
+
     }
 }

@@ -81,6 +81,7 @@ namespace StudentGroup
 
         }
 
+        // Showing members of current project group
         private void combobxProjectGroups_SelectedIndexChanged(object sender, EventArgs e)
         {
             listbxMembers.Items.Clear();
@@ -103,6 +104,7 @@ namespace StudentGroup
             }
 
             txtAddGroupName.Text = "";
+            WriteInComboBoxes();
         }
 
         private void tabControl1_Selecting(object sender, TabControlCancelEventArgs e)
@@ -110,6 +112,10 @@ namespace StudentGroup
 
         }
 
-       
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            sqlConn.HardReset();
+            WriteInComboBoxes();
+        }
     }
 }
