@@ -2,12 +2,10 @@ namespace TicTacToe
 {
     public partial class MainForm : Form
     {
+        private int playerOneScore, playerTwoScore, gamesPlayed = 0;
         private string symbol = "X";
-        private int count = 1;
+        private bool isSymbol = false;
         private Button[] btns;
-
-        // private Button[] btns;
-        // private Button[] btns = new Button[9];
 
         public MainForm()
         {
@@ -27,15 +25,15 @@ namespace TicTacToe
 
         private void NextTurn()
         {
-            if (count % 2 == 0)
+            if (isSymbol)
             {
                 symbol = "X";
+                isSymbol = false;
             } else
             {
                 symbol = "O";
+                isSymbol = true;
             }
-
-            count++;
         }
 
         private bool Logic()
@@ -64,15 +62,6 @@ namespace TicTacToe
             return false;
         }
 
-        private void ResetBtns()
-        {
-            foreach (Button btn in btns)
-            {
-                btn.Enabled = true;
-                btn.Text = "";
-            }
-        }
-
         private void ClickButton(int ind)
         {
             Button currentBtn = btns[ind];
@@ -81,17 +70,52 @@ namespace TicTacToe
             {
                 currentBtn.Text = symbol;
                 currentBtn.Enabled = false;
+                currentBtn.BackColor = isSymbol ? Color.Blue : Color.Red;
 
                 if (Logic())
                 {
-                    ResetBtns();
                     MessageBox.Show("Congrats");
+                    AddToHistory();
+                    DetermineWinner();
+                    ResetBtns();
                 }
             }
 
             NextTurn();
         }
 
+        private void DetermineWinner()
+        {
+            if (isSymbol)
+            {
+                playerTwoScore += 1;
+            } else
+            {
+                playerOneScore += 1;
+            }
+
+            lblResult.Text = $"Result (X - O): {playerOneScore} - {playerTwoScore}";
+        }
+
+        private void AddToHistory()
+        {
+            gamesPlayed += 1;
+            string res = $"Game {gamesPlayed}: player {symbol} won";
+
+            listbxHistory.Items.Add(res);
+        }
+
+        private void ResetBtns()
+        {
+            foreach (Button btn in btns)
+            {
+                btn.Enabled = true;
+                btn.Text = "";
+                btn.BackColor = Color.WhiteSmoke;
+            }
+        }
+
+        // Controls -----------------------------
         private void btnGrid1_Click(object sender, EventArgs e)
         {
             ClickButton(0);

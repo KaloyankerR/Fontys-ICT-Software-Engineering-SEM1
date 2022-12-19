@@ -31,6 +31,7 @@ namespace BickingTrip
         {
             this.lbxMyTrips = new System.Windows.Forms.ListBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.nudRating = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
@@ -40,7 +41,7 @@ namespace BickingTrip
             this.tbxTo = new System.Windows.Forms.TextBox();
             this.btnAdd = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.btnDeleteAll = new System.Windows.Forms.Button();
+            this.btnHide = new System.Windows.Forms.Button();
             this.btnShowAll = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.tbxSearch = new System.Windows.Forms.TextBox();
@@ -51,7 +52,6 @@ namespace BickingTrip
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tbpgTrips = new System.Windows.Forms.TabPage();
             this.tbpgAdd = new System.Windows.Forms.TabPage();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudRating)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudDistance)).BeginInit();
@@ -91,6 +91,17 @@ namespace BickingTrip
             this.groupBox1.TabIndex = 41;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Add trip";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Tai Le", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label6.Location = new System.Drawing.Point(319, 134);
+            this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(31, 25);
+            this.label6.TabIndex = 49;
+            this.label6.Text = "/5";
             // 
             // label5
             // 
@@ -190,7 +201,7 @@ namespace BickingTrip
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.btnDeleteAll);
+            this.groupBox2.Controls.Add(this.btnHide);
             this.groupBox2.Controls.Add(this.btnShowAll);
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Controls.Add(this.tbxSearch);
@@ -205,16 +216,16 @@ namespace BickingTrip
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "My trips";
             // 
-            // btnDeleteAll
+            // btnHide
             // 
-            this.btnDeleteAll.Location = new System.Drawing.Point(17, 316);
-            this.btnDeleteAll.Margin = new System.Windows.Forms.Padding(5);
-            this.btnDeleteAll.Name = "btnDeleteAll";
-            this.btnDeleteAll.Size = new System.Drawing.Size(462, 34);
-            this.btnDeleteAll.TabIndex = 24;
-            this.btnDeleteAll.Text = "Delete";
-            this.btnDeleteAll.UseVisualStyleBackColor = true;
-            this.btnDeleteAll.Click += new System.EventHandler(this.btnDeleteAll_Click);
+            this.btnHide.Location = new System.Drawing.Point(17, 316);
+            this.btnHide.Margin = new System.Windows.Forms.Padding(5);
+            this.btnHide.Name = "btnHide";
+            this.btnHide.Size = new System.Drawing.Size(462, 34);
+            this.btnHide.TabIndex = 24;
+            this.btnHide.Text = "Hide";
+            this.btnHide.UseVisualStyleBackColor = true;
+            this.btnHide.Click += new System.EventHandler(this.btnHide_Click);
             // 
             // btnShowAll
             // 
@@ -325,17 +336,6 @@ namespace BickingTrip
             this.tbpgAdd.Text = "Add";
             this.tbpgAdd.UseVisualStyleBackColor = true;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Tai Le", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label6.Location = new System.Drawing.Point(319, 134);
-            this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(31, 25);
-            this.label6.TabIndex = 49;
-            this.label6.Text = "/5";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
@@ -379,7 +379,7 @@ namespace BickingTrip
         private System.Windows.Forms.NumericUpDown nudRating;
         private System.Windows.Forms.Button btnInfo;
         private System.Windows.Forms.Button btnShowAll;
-        private System.Windows.Forms.Button btnDeleteAll;
+        private System.Windows.Forms.Button btnHide;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tbpgTrips;
         private System.Windows.Forms.TabPage tbpgAdd;

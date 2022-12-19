@@ -23,6 +23,7 @@ namespace StudentGroup
         }
         
         // ---------------------- Public
+        // TODO: Add try-catch
         public List<string> GetMembers()
         {
             string sql = "";

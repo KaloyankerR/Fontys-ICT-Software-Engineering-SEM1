@@ -47,6 +47,7 @@ namespace BickingTrip
             nudDistance.Text = "";
             nudRating.Text = "";
             ShowAllTrips();
+            tbpgTrips.Show();
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -68,12 +69,29 @@ namespace BickingTrip
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
+            // List<Trip> searchedTrips = trips.GetTrips().Where(trip.Destination == tbxSearch.Text).ToList();
+            List<Trip> searchedTrips = new List<Trip>();
+
+            foreach(Trip trip in trips.GetTrips())
+            {
+                if (trip.Destination == tbxSearch.Text)
+                {
+                    searchedTrips.Add(trip);
+                }
+            }
+
+            lbxMyTrips.Items.Clear();
+
+            foreach(Trip trip in searchedTrips)
+            {
+                lbxMyTrips.Items.Add(trip.Destination);
+            }
 
         }
 
-        private void btnDeleteAll_Click(object sender, EventArgs e)
+        private void btnHide_Click(object sender, EventArgs e)
         {
-
+            lbxMyTrips.Items.Clear();
         }
         
     }

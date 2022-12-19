@@ -1,0 +1,15 @@
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\bin\Debug\net6.0\CsvFileHandling.exe
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\bin\Debug\net6.0\CsvFileHandling.deps.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\bin\Debug\net6.0\CsvFileHandling.runtimeconfig.json
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\bin\Debug\net6.0\CsvFileHandling.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\bin\Debug\net6.0\CsvFileHandling.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.csproj.AssemblyReference.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.AssemblyInfoInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.AssemblyInfo.cs
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.csproj.CoreCompileInputs.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\refint\CsvFileHandling.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.pdb
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.genruntimeconfig.cache
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\ref\CsvFileHandling.dll
