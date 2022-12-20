@@ -13,3 +13,5 @@ D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.pdb
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.genruntimeconfig.cache
 D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\ref\CsvFileHandling.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\bin\Debug\net6.0\CsvHelper.dll
+D:\Github repositories\Fontys-ICT-Software-Engineering-SEM1-\Extra\FileHandling\CsvFileHandling\CsvFileHandling\obj\Debug\net6.0\CsvFileHandling.csproj.CopyComplete

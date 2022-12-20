@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Globalization;
 using System.IO;
 using System.Reflection.Metadata;
 using System.Security.Cryptography.X509Certificates;
+using CsvHelper;
+using CsvHelper.Configuration;
 
 namespace CsvFileHandling
 {
@@ -9,21 +12,8 @@ namespace CsvFileHandling
     {
         static void Main(string[] args)
         {
-            string path = "C:\\Users\\User\\Downloads\\MOCK_CAR_DATA1.csv";
-            string[] lines = System.IO.File.ReadAllLines(path);
-            List<string[]> values = new List<string[]>();
-
-            foreach(string line in lines)
-            {
-                string[] column = line.Split(',');
-                values.Add(column);
-            }
-
-            foreach (var value in values)
-            {
-                Console.WriteLine($"{value[0]} - {value[1]} - {value[2]} - {value[3]}");
-            }
-
+            CsvExecutor csvEx = new CsvExecutor("cars.csv");
+            csvEx.WriteInFile();
         }
 
         public void Test1()
@@ -59,4 +49,13 @@ namespace CsvFileHandling
             }
         }
     }
+
+    public class Car
+    {
+        public string Brand { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
+        public double Price { get; set; }
+    }
+
 }
