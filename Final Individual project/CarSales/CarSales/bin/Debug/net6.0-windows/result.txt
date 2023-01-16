@@ -1,0 +1,16 @@
+Car: Porsche 911
+Customer: Kaloyan
+Date: Friday, January 13, 2023
+
+Car: Chevrolet Silverado 3500
+Customer: Pesho
+Date: Sunday, January 15, 2023
+
+Car: Hyundai Azera
+Customer: Poli
+Date: Monday, January 16, 2023
+
+Car: Lincoln Town Car
+Customer: Gosho
+Date: Monday, January 16, 2023
+
