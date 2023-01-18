@@ -12,6 +12,11 @@ namespace CarSales
 {
     public partial class RegisterCar : Form
     {
+        public string Brand;
+        public string Model;
+        public string YearProduced;
+        public string BasePrice;
+
         public RegisterCar()
         {
             InitializeComponent();
@@ -19,7 +24,10 @@ namespace CarSales
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
-            this.Name = txtName.Text;
+            this.Brand = txtBrand.Text;
+            this.Model = txtModel.Text;
+            this.YearProduced = txtYearProduced.Text;
+            this.BasePrice = txtBasePrice.Text;
 
             DialogResult = DialogResult.OK;
         }

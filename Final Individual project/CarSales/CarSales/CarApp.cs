@@ -184,14 +184,18 @@ namespace CarSales
 
             if (result == DialogResult.OK)
             {
-                MessageBox.Show(frm.Name);
+                List<string[]> res = new List<string[]>();
+                string[] values = { frm.Brand, frm.Model, frm.YearProduced, frm.BasePrice };
+                res.Add(values);
+
+                sqlEx.InsertCars(res);
+                SetSalesCars();
             }
             else
             {
                 MessageBox.Show("Error occured!");
             }
 
-            MessageBox.Show("Already in there!");
             // Car cr = new Car("MB", "AMG", 2020, 150000);
             // csvEx.AppendRecord(cr);
         }
